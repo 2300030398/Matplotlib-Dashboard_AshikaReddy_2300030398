@@ -1,63 +1,55 @@
-# Data Engineering Notebooks
+# Online Shopping Data Visualization Dashboard 📊
 
-A collection of Jupyter notebooks from my Data Engineering training at Calibo AI Academy. They cover the core Python libraries used for data work, NumPy and Pandas, and include a student performance dataset for hands-on practice.
+## About the Project
 
-## Repository Contents
+I created this project to practice data visualization using Python. I used sample online shopping data to explore customer shopping patterns and understand how data can be presented visually.
 
-| File | Description |
-|---|---|
-| `session1.ipynb` | Session 1 notebook: introduction and Python fundamentals for data work |
-| `numlib.ipynb` | NumPy library: arrays, array operations and numerical computing |
-| `numutube.ipynb` | NumPy practice notebook with applied examples |
-| `pandaslib.ipynb` | Pandas library: DataFrames, data cleaning, filtering and analysis |
-| `student_performance_dataset.csv` | Student performance dataset used for practice and analysis |
-| `.gitignore` | Files and folders excluded from version control |
+Instead of looking at raw numbers, I used different types of charts and dashboards to make the data easier to understand. This project helped me learn how to create visualizations and combine multiple charts into a single dashboard.
 
-## Topics Covered
+## What I Worked On
 
-### NumPy
+- Visualized customer spending using different charts.
+- Explored shopping patterns and product categories.
+- Compared customer spending across different categories.
+- Analyzed customer visits, orders, and spending trends.
+- Created multiple charts in a single dashboard using subplots.
+- Practiced data visualization using Matplotlib and Seaborn.
 
-- Creating and inspecting arrays
-- Indexing, slicing and reshaping
-- Mathematical and statistical operations on arrays
-- Vectorized computation instead of loops
-
-### Pandas
-
-- Series and DataFrames
-- Loading data from CSV files
-- Inspecting data with `head()`, `info()` and `describe()`
-- Selecting, filtering and sorting data
-- Handling missing values and duplicates
-- Grouping and aggregating data
-
-### Data Engineering Basics
-
-- Loading and exploring a dataset
-- Cleaning and preparing data for analysis
-- Producing summary statistics and insights
-
-## Dataset
-
-`student_performance_dataset.csv` contains student records with academic performance information. It is used in the Pandas notebook to practice exploring, cleaning and summarizing real tabular data.
-
-## Tech Stack
+## Tools & Technologies
 
 - Python
-- NumPy
 - Pandas
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 
+## Visualizations
 
+In this project, I explored different types of visualizations, such as:
+
+- Bar charts
+- Line plots
+- Histograms
+- Pie charts
+- Scatter plots
+- Box plots
+- Count plots
+
+I also created multiple dashboards by combining different charts to make the analysis more interesting and easier to understand.
 
 ## What I Learned
 
-- Using NumPy for fast numerical operations on arrays
-- Using Pandas to load, clean, filter and summarize tabular data
-- Preparing raw data so it is ready for analysis and modelling
+While working on this project, I learned how to create different charts using Matplotlib and Seaborn, customize plots, work with subplots, and present data in a visual format.
 
-## Author
+It also helped me improve my understanding of data analysis and how visualizations can help us identify patterns in data.
 
-**M.V. Ashika Reddy**
-Data Engineering Training, Calibo AI Academy
-Email: ashikareddymajjiga@gmail.com
+
+
+## Project File
+
+`MatplotlibDashBoard.ipynb` – Contains the Python code, analysis, and visualizations created for this project.
+
+---
+
+**Created by M.V. Ashika Reddy**  
+Learning Python, Data Analysis, and Data Visualization.
